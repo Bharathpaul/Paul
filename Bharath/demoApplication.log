@@ -1,0 +1,8 @@
+2018-07-13 15:19:43 FATAL Log4jTest:20 - Fatal Message
+2018-07-13 15:26:36 INFO  Log4jEx1:13 - -----------------New Testcvase----------------------
+2018-07-13 15:26:36 TRACE Log4jEx1:14 - It is trace message
+2018-07-13 15:26:36 DEBUG Log4jEx1:15 - Application is opened
+2018-07-13 15:26:36 INFO  Log4jEx1:16 - Page is opened
+2018-07-13 15:26:36 WARN  Log4jEx1:17 - It is warning message
+2018-07-13 15:26:36 ERROR Log4jEx1:18 - It is error message
+2018-07-13 15:26:36 FATAL Log4jEx1:19 - Fatal Message

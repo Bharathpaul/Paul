@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GroupsTesting">
+<test name="Groups">
+	          <classes>
+		  <class name="TestNG1.TestAnnotationEx">
+		  <methods>
+		  	  <exclude name="m2"></exclude>
+		  </methods>
+		  
+		  
+		  </class>
+	          </classes>	
+	      </test>
+           </suite>

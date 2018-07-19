@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "C:\Users\user\eclipse-workspace\Bharath\src\Package1\NewFile.dtd">
+<suite name="groups name">
+<test name="groups">
+<classes>
+<class name="Package1.TestAnnotationsEx"/>
+<class name="Package1.TestAnnotationEx2"/>
+<class name="Package1.DataProviderEx1"/>
+<class name="Package1.DataProvider"/>
+
+
+</classes>
+
+</test>
+</suite>
