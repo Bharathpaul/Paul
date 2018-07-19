@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GroupsTesting">
+<test name="Groups">
+	          <classes>
+		  <class name="Maven.Maven.MavenEx"></class>
+	          </classes>	
+	      </test>
+</suite>
